@@ -1,0 +1,15 @@
+{
+    "initial_working_directory": "/Users/thinh/SDE/R",
+    "editor_theme": "Material",
+    "posix_terminal_shell": "zsh",
+    "python_type": "conda",
+    "python_version": "3.9.12",
+    "python_path": "/opt/miniconda3/bin/python3.9",
+    "restore_source_documents": false,
+    "load_workspace": false,
+    "auto_detect_indentation": true,
+    "insert_native_pipe_operator": true,
+    "rmd_chunk_output_inline": false,
+    "default_project_location": "/Users/thinh/Programming",
+    "editor_keybindings": "vim"
+}
